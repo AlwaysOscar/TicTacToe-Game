@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-<img src="screenshot.png" alt="Screenshot" width="400">
+<img src="TicTacToeGameScreenShot.png" alt="Screenshot" width="400">
 
 A simple implementation of the classic Tic-Tac-Toe game using C# and WPF.
 
